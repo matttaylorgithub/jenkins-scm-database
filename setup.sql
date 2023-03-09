@@ -26,7 +26,7 @@ INSERT INTO Books (
 INSERT INTO Books (
         Name, Author, Image
 ) VALUES (
-       "Harry Potter and the Philosopher's Stone",
+       "Harry Potter and the Philosopher's Stone take2",
         "J.K. Rowling",
         "https://books.google.com/books/content/images/frontcover/39iYWTb6n6cC?fife=w200-h300"
 );
